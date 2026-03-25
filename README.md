@@ -22,11 +22,15 @@ The focus is on understanding both:
 
 The structure is flexible and may change over time.
 
-Examples of possible organization:
-
 - algorithms/
+    - linear-search/
+        - linear_search.py
+        - linear_search_all.py
+        - linear_search_even.py
+        - find_max.py
+        - find_second_max.py
+        - is_sorted.py
 - data-structures/
-- mixed-practice/
 
 Folders and categories may evolve as learning progresses.
 
