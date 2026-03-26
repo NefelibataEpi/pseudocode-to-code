@@ -24,12 +24,7 @@ The structure is flexible and may change over time.
 
 - algorithms/
     - linear-search/
-        - linear_search.py
-        - linear_search_all.py
-        - linear_search_even.py
-        - find_max.py
-        - find_second_max.py
-        - is_sorted.py
+    - selection-sort/
 - data-structures/
 
 Folders and categories may evolve as learning progresses.
