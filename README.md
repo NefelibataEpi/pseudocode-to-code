@@ -25,6 +25,7 @@ The structure is flexible and may change over time.
 - algorithms/
     - linear-search/
     - selection-sort/
+    - bubble-sort/
 - data-structures/
 
 Folders and categories may evolve as learning progresses.
