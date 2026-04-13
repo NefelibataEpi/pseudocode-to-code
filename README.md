@@ -23,11 +23,11 @@ The focus is on understanding both:
 The structure is flexible and may change over time.
 
 - algorithms/
-    - linear-search/
-    - selection-sort/
-    - bubble-sort/
-    - insertion-sort/
-    - fast-power/
+    - [linear-search/](algorithms/linear-search/)
+    - [selection-sort/](algorithms/selection-sort/)
+    - [bubble-sort/](algorithms/bubble-sort/)
+    - [insertion-sort/](algorithms/insertion-sort/)
+    - [fast-power/](algorithms/fast-power/)
 - data-structures/
 
 Folders and categories may evolve as learning progresses.
