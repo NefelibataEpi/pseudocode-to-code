@@ -28,6 +28,7 @@ The structure is flexible and may change over time.
     - [bubble-sort/](algorithms/bubble-sort/)
     - [insertion-sort/](algorithms/insertion-sort/)
     - [fast-power/](algorithms/fast-power/)
+    - [merge-sort/](algorithms/merge-sort/)
 - data-structures/
 
 Folders and categories may evolve as learning progresses.
