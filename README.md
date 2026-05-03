@@ -29,7 +29,8 @@ The structure is flexible and may change over time.
     - [insertion-sort/](algorithms/insertion-sort/)
     - [fast-power/](algorithms/fast-power/)
     - [merge-sort/](algorithms/merge-sort/)
-- data-structures/
+    - graph/
+        - [bfs/](algorithms/graph/bfs/)
 
 Folders and categories may evolve as learning progresses.
 
