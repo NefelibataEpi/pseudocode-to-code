@@ -23,12 +23,15 @@ The focus is on understanding both:
 The structure is flexible and may change over time.
 
 - algorithms/
-    - [linear-search/](algorithms/linear-search/)
-    - [selection-sort/](algorithms/selection-sort/)
-    - [bubble-sort/](algorithms/bubble-sort/)
-    - [insertion-sort/](algorithms/insertion-sort/)
-    - [fast-power/](algorithms/fast-power/)
-    - [merge-sort/](algorithms/merge-sort/)
+    - searching/
+        - [linear-search/](algorithms/linear-search/)
+    - sorting/
+        - [selection-sort/](algorithms/selection-sort/)
+        - [bubble-sort/](algorithms/bubble-sort/)
+        - [insertion-sort/](algorithms/insertion-sort/)
+        - [merge-sort/](algorithms/merge-sort/)
+    - math/
+        - [fast-power/](algorithms/fast-power/)
     - graph/
         - [bfs/](algorithms/graph/bfs/)
 
