@@ -24,16 +24,17 @@ The structure is flexible and may change over time.
 
 - algorithms/
     - searching/
-        - [linear-search/](algorithms/linear-search/)
+        - [linear-search/](algorithms/searching/linear-search/)
     - sorting/
-        - [selection-sort/](algorithms/selection-sort/)
-        - [bubble-sort/](algorithms/bubble-sort/)
-        - [insertion-sort/](algorithms/insertion-sort/)
-        - [merge-sort/](algorithms/merge-sort/)
+        - [selection-sort/](algorithms/sorting/selection-sort/)
+        - [bubble-sort/](algorithms/sorting/bubble-sort/)
+        - [insertion-sort/](algorithms/sorting/insertion-sort/)
+        - [merge-sort/](algorithms/sorting/merge-sort/)
     - math/
-        - [fast-power/](algorithms/fast-power/)
+        - [fast-power/](algorithms/math/fast-power/)
     - graph/
         - [bfs/](algorithms/graph/bfs/)
+        - [dfs/](algorithms/graph/dfs/)
 
 Folders and categories may evolve as learning progresses.
 
