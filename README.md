@@ -35,6 +35,7 @@ The structure is flexible and may change over time.
     - graph/
         - [bfs/](algorithms/graph/bfs/)
         - [dfs/](algorithms/graph/dfs/)
+        - [prim/](algorithms/graph/prim/)
 
 Folders and categories may evolve as learning progresses.
 
