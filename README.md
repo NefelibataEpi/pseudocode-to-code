@@ -36,6 +36,7 @@ The structure is flexible and may change over time.
         - [bfs/](algorithms/graph/bfs/)
         - [dfs/](algorithms/graph/dfs/)
         - [prim/](algorithms/graph/prim/)
+        - [kruskal/](algorithms/graph/kruskal/)
 - data-structures/
     - [union_find/](data-structures/union-find/)
 
