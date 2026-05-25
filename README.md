@@ -37,7 +37,8 @@ The structure is flexible and may change over time.
         - [dfs/](algorithms/graph/dfs/)
         - [prim/](algorithms/graph/prim/)
         - [kruskal/](algorithms/graph/kruskal/)
-- data-structures/
+        - [dijkstra/](algorithms/graph/dijkstra/)
+- data_structures/
     - [union_find/](data-structures/union-find/)
 
 Folders and categories may evolve as learning progresses.
