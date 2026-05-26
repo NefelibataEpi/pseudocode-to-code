@@ -30,6 +30,7 @@ The structure is flexible and may change over time.
         - [bubble_sort/](algorithms/sorting/bubble-sort/)
         - [insertion_sort/](algorithms/sorting/insertion-sort/)
         - [merge_sort/](algorithms/sorting/merge-sort/)
+        - [counting_sort/](algorithms/sorting/counting_sort/)
     - math/
         - [fast_power/](algorithms/math/fast-power/)
     - graph/
