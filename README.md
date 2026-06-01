@@ -26,6 +26,7 @@ The structure is flexible and may change over time.
     - searching/
         - [linear_search/](algorithms/searching/linear-search/)
         - [horspool/](algorithms/searching/horspool/)
+        - [binary_search/](algorithms/searching/binary_search/)
     - sorting/
         - [selection_sort/](algorithms/sorting/selection-sort/)
         - [bubble_sort/](algorithms/sorting/bubble-sort/)
