@@ -33,6 +33,7 @@ The structure is flexible and may change over time.
         - [insertion_sort/](algorithms/sorting/insertion-sort/)
         - [merge_sort/](algorithms/sorting/merge-sort/)
         - [counting_sort/](algorithms/sorting/counting_sort/)
+        - [quick_sort/](algorithms/sorting/quick_sort/)
     - math/
         - [fast_power/](algorithms/math/fast-power/)
     - graph/
