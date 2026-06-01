@@ -34,6 +34,7 @@ The structure is flexible and may change over time.
         - [merge_sort/](algorithms/sorting/merge-sort/)
         - [counting_sort/](algorithms/sorting/counting_sort/)
         - [quick_sort/](algorithms/sorting/quick_sort/)
+        - [radix_sort/](algorithms/sorting/radix_sort/)
     - math/
         - [fast_power/](algorithms/math/fast-power/)
     - graph/
