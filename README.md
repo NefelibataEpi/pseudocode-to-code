@@ -46,6 +46,7 @@ The structure is flexible and may change over time.
 - data_structures/
     - [union_find/](data_structures/union_find/)
     - [priority_queue/](data_structures/priority_queue/)
+    - [binary_heap/](data_structures/binary_heap/)
 
 Folders and categories may evolve as learning progresses.
 
