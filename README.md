@@ -43,6 +43,7 @@ The structure is flexible and may change over time.
         - [prim/](algorithms/graph/prim/)
         - [kruskal/](algorithms/graph/kruskal/)
         - [dijkstra/](algorithms/graph/dijkstra/)
+        - [bellman_ford/](algorithms/graph/bellman_ford/)
 - data_structures/
     - [union_find/](data_structures/union_find/)
     - [priority_queue/](data_structures/priority_queue/)
